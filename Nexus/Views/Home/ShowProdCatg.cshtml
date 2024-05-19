@@ -1,0 +1,47 @@
+﻿@model IEnumerable<NEXUS.Models.Product>
+
+<div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s">
+    <div class="container text-center py-5">
+        <h1 class="display-2 text-white mb-4 animated slideInDown" style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">Equipments</h1>
+        <nav aria-label="breadcrumb animated slideInDown">
+            <ol class="breadcrumb justify-content-center mb-0">
+                <li class="breadcrumb-item"><a href="#">Home</a></li>
+                <li class="breadcrumb-item"><a href="#">Pages</a></li>
+                <li class="breadcrumb-item text-primary" aria-current="page">Order</li>
+            </ol>
+        </nav>
+    </div>
+</div>
+
+
+<div class="container-fluid " style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">
+    <div class="row justify-content-center">
+        <h1 class="animated slideInDown" style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">ORDER YOUR EQUIPMENTS!</h1>
+
+        <p style="text-align:center;">
+            These devices are cater to different needs and budgets, ranging from high-speed performance to more budget-friendly options with basic features.
+        </p>
+        @foreach (var Product in Model)
+        {
+            <div class="router">
+                <img class="rounded mx-auto d-block" src="~/@Product.ProdImage" alt="Router 1" style="width:300px!important;height:240px!important;">
+                <h2 class="Router-head">
+                    <span class="fs-4">@Product.ProdName </span>
+                </h2>
+                <p>Specifications:</p>
+                <h5 class="paragraph" >
+
+                    @Product.ProdDesc
+                    <br>
+                    <p class="mt-3">Price:</p><sup class="fs-6">Pkr</sup>
+                    <span class="fs-3">@Product.ProdPrice</span>
+                </h5>
+                <br />
+                <a asp-controller="Home" asp-action="Order">
+                    <button class="btn btn-success text-white">ORDER NOW</button>
+                </a>
+            </div>
+        }
+
+    </div>
+</div>

@@ -1,0 +1,44 @@
+﻿@{
+    Layout = "_LayoutAdmin";
+}
+@model NEXUS.Models.PackagePlan
+
+
+<div class="container-fluid pt-4 px-4">
+    <div class="row g-4">
+        <div class="col-sm-12 col-xl-12">
+            <div class="bg-light rounded h-100 p-4">
+                <h6 class="mb-4">ADD-PACKAGES</h6>
+                <form enctype="multipart/form-data" asp-controller="Admin" asp-action="AddPackages">
+                    @Html.AntiForgeryToken()
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Package Name</label>
+                        <input type="text" class="form-control" asp-for="PackName">
+                    </div>
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Package Description</label>
+                        <input type="text" class="form-control" asp-for="PackDesc">
+                    </div>
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Package Price</label>
+                        <input type="number" class="form-control" asp-for="PackPrice">
+                    </div>
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Package Validity</label>
+                        <input type="text" class="form-control" asp-for="PackValidity">
+                    </div>
+
+                    <select class="form-select mb-2" asp-for="PackageId" asp-items="ViewBag.Package" aria-label="Default select example">
+                        <option selected>Select Package</option>
+                    </select>
+
+                    @* <select class="form-select mb-2" asp-for="ProdCatgId" asp-items="ViewBag.Category" aria-label="Default select example">
+                    <option selected>Select Category</option>
+                    </select> *@
+
+                    <button type="submit" class="btn btn-success mt-2">SUBMIT</button>
+                </form>
+            </div>
+        </div>
+    </div>
+

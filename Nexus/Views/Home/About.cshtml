@@ -1,0 +1,73 @@
+﻿@{
+    ViewData["Title"] = "";
+}
+
+<!-- Page Header Start -->
+<div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s">
+    <div class="container text-center py-5">
+        <h1 class="display-2 text-white mb-4 animated slideInDown">About Us</h1>
+        <nav aria-label="breadcrumb animated slideInDown">
+            <ol class="breadcrumb justify-content-center mb-0">
+                <li class="breadcrumb-item"><a href="#">Home</a></li>
+                <li class="breadcrumb-item"><a href="#">Pages</a></li>
+                <li class="breadcrumb-item text-primary" aria-current="page">About</li>
+            </ol>
+        </nav>
+    </div>
+</div>
+<!-- Page Header End -->
+<!-- About Start -->
+<div class="container-xxl " style="margin-top: 6rem;">
+    <div class="container">
+        <div class="row justify-content-center mb-5">
+            <div class="col-md-7 heading-section text-center" data-aos="fade-up" data-aos-duration="1000">
+                <span class="subheading">NEXUS.</span>
+                <span class="fs-1 fw-bold">About <strong>NEXUS.</strong></span>
+                <p>
+                    Nexus Communication System is an Organization system that provides two services like the tele-communications and Internet Services. 
+                    It is one of the major vendors at the local place. It has now extended its service all over the territory due to the increase in demand for the internet service.
+                </p>
+            </div>
+            
+        </div>
+    </div>
+</div>
+<!-- About End -->
+<!-- Team Start -->
+<div class="container-xxl py-3">
+    <div class="container ">
+        <div class="row justify-content-center mb-5">
+        <div class="col-md-7 heading-section text-center" data-aos="fade-up" data-aos-duration="1000">
+            <span class="subheading">Meet Our Team</span>
+            <span class="fs-1 fw-bold">Nexus Team</span>
+            
+        </div>
+        </div>
+
+       
+        @model IEnumerable<NEXUS.Models.Team>
+        
+        <div class="row g-4">
+            @foreach (var item in Model)
+            {
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
+              
+                <div class="team-item rounded overflow-hidden pb-4">
+                    <img class="img-fluid mb-4" src="~/@item.PersonImage" alt="" width="500px" height="500px"> 
+                        <h5>@item.PersonName</h5>
+                       <span class="text-primary">Founder & CEO</span>
+                        <ul class="team-social">
+                            <li><a class="btn btn-square" href=""><i class="bi bi-facebook"></i></a></li>
+                            <li><a class="btn btn-square" href=""><i class="bi bi-instagram"></i></a></li>
+                            <li><a class="btn btn-square" href=""><i class="bi bi-twitter-x"></i></a></li>
+                            <li><a class="btn btn-square" href=""><i class="bi bi-linkedin"></i></a></li>
+                        </ul> 
+                        </div>
+               
+        </div>
+            }
+        </div>
+       
+    </div>
+</div>
+<!-- Team End -->

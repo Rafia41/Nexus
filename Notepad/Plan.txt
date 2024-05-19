@@ -1,0 +1,62 @@
+Basic Plan
+
+Overview:
+Our Basic Plan offers reliable internet connectivity at an affordable price, suitable for light internet users or households with minimal online activity.
+
+Features:
+
+Download Speed: Up to 25 Mbps
+Upload Speed: Up to 5 Mbps
+Data Cap: 100 GB per month
+Suitable For: Basic web browsing, email, and social media usage
+2. Standard Plan
+
+Overview:
+The Standard Plan is ideal for households with moderate internet usage, offering faster speeds and increased data allowances for streaming, gaming, and multiple device connections.
+
+Features:
+
+Download Speed: Up to 100 Mbps
+Upload Speed: Up to 20 Mbps
+Data Cap: 500 GB per month
+Suitable For: Streaming HD content, online gaming, video conferencing
+3. Premium Plan
+
+Overview:
+For heavy internet users and families with multiple devices, our Premium Plan delivers lightning-fast speeds and unlimited data, ensuring seamless connectivity for all your online activities.
+
+Features:
+
+Download Speed: Up to 500 Mbps
+Upload Speed: Up to 100 Mbps
+Data Cap: Unlimited
+Suitable For: 4K streaming, large file downloads, smart home devices, remote work
+4. Business Plan
+
+Overview:
+Designed for small businesses and home offices, our Business Plan offers dedicated support, enhanced security features, and robust connectivity to meet the demands of your professional environment.
+
+Features:
+
+Customizable Speeds: Tailored to your business needs
+Priority Support: Dedicated customer service for business clients
+Static IP Address: Ideal for hosting servers and accessing remote devices
+Business-grade Security: Advanced firewall protection and threat detection
+5. Fiber Optic Plan
+
+Overview:
+Experience the future of internet connectivity with our Fiber Optic Plan. Enjoy ultra-fast speeds, low latency, and unmatched reliability for a truly seamless online experience.
+
+Features:
+
+Download Speed: Up to 1 Gbps (1000 Mbps)
+Upload Speed: Up to 1 Gbps (1000 Mbps)
+Unlimited Data: No data caps or throttling
+Symmetrical Speeds: Consistent performance for uploads and downloads
+Choose the plan that best suits your needs and enjoy fast, reliable internet connectivity tailored to your lifestyle or business requirements.
+
+
+
+
+
+

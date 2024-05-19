@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rafia Najam\\Downloads\\Nexus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E0D035-E827-4334-98C2-B0853D411FED}|NEXUS\\NEXUS.csproj|c:\\users\\rafia najam\\downloads\\nexus\\nexus\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0E0D035-E827-4334-98C2-B0853D411FED}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E0D035-E827-4334-98C2-B0853D411FED}|NEXUS\\NEXUS.csproj|c:\\users\\rafia najam\\downloads\\nexus\\nexus\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0E0D035-E827-4334-98C2-B0853D411FED}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E0D035-E827-4334-98C2-B0853D411FED}|NEXUS\\NEXUS.csproj|c:\\users\\rafia najam\\downloads\\nexus\\nexus\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0E0D035-E827-4334-98C2-B0853D411FED}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E0D035-E827-4334-98C2-B0853D411FED}|NEXUS\\NEXUS.csproj|c:\\users\\rafia najam\\downloads\\nexus\\nexus\\views\\admin\\indexadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0E0D035-E827-4334-98C2-B0853D411FED}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\views\\admin\\indexadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E0D035-E827-4334-98C2-B0853D411FED}|NEXUS\\NEXUS.csproj|c:\\users\\rafia najam\\downloads\\nexus\\nexus\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0E0D035-E827-4334-98C2-B0853D411FED}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E0D035-E827-4334-98C2-B0853D411FED}|NEXUS\\NEXUS.csproj|c:\\users\\rafia najam\\downloads\\nexus\\nexus\\data\\nexusdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E0D035-E827-4334-98C2-B0853D411FED}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\data\\nexusdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E0D035-E827-4334-98C2-B0853D411FED}|NEXUS\\NEXUS.csproj|c:\\users\\rafia najam\\downloads\\nexus\\nexus\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0E0D035-E827-4334-98C2-B0853D411FED}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E0D035-E827-4334-98C2-B0853D411FED}|NEXUS\\NEXUS.csproj|c:\\users\\rafia najam\\downloads\\nexus\\nexus\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E0D035-E827-4334-98C2-B0853D411FED}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E0D035-E827-4334-98C2-B0853D411FED}|NEXUS\\NEXUS.csproj|c:\\users\\rafia najam\\downloads\\nexus\\nexus\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0E0D035-E827-4334-98C2-B0853D411FED}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E0D035-E827-4334-98C2-B0853D411FED}|NEXUS\\NEXUS.csproj|c:\\users\\rafia najam\\downloads\\nexus\\nexus\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E0D035-E827-4334-98C2-B0853D411FED}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E0D035-E827-4334-98C2-B0853D411FED}|NEXUS\\NEXUS.csproj|c:\\users\\rafia najam\\downloads\\nexus\\nexus\\views\\home\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0E0D035-E827-4334-98C2-B0853D411FED}|NEXUS\\NEXUS.csproj|solutionrelative:nexus\\views\\home\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 137,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafia Najam\\Downloads\\Nexus\\Nexus\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Nexus\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rafia Najam\\Downloads\\Nexus\\Nexus\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Nexus\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T08:15:40.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafia Najam\\Downloads\\Nexus\\Nexus\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Nexus\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\Rafia Najam\\Downloads\\Nexus\\Nexus\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Nexus\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAJUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T07:50:49.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IndexAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafia Najam\\Downloads\\Nexus\\Nexus\\Views\\Admin\\IndexAdmin.cshtml",
+              "RelativeDocumentMoniker": "Nexus\\Views\\Admin\\IndexAdmin.cshtml",
+              "ToolTip": "C:\\Users\\Rafia Najam\\Downloads\\Nexus\\Nexus\\Views\\Admin\\IndexAdmin.cshtml",
+              "RelativeToolTip": "Nexus\\Views\\Admin\\IndexAdmin.cshtml",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAI8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T07:50:14.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NexusDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rafia Najam\\Downloads\\Nexus\\Nexus\\Data\\NexusDbContext.cs",
+              "RelativeDocumentMoniker": "Nexus\\Data\\NexusDbContext.cs",
+              "ToolTip": "C:\\Users\\Rafia Najam\\Downloads\\Nexus\\Nexus\\Data\\NexusDbContext.cs",
+              "RelativeToolTip": "Nexus\\Data\\NexusDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T07:42:17.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Rafia Najam\\Downloads\\Nexus\\Nexus\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Nexus\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Rafia Najam\\Downloads\\Nexus\\Nexus\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Nexus\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAP0BAAAAAAAAAAAuwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T13:41:38.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Rafia Najam\\Downloads\\Nexus\\Nexus\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Nexus\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Rafia Najam\\Downloads\\Nexus\\Nexus\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Nexus\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAD4vyUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T13:39:46.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Order.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafia Najam\\Downloads\\Nexus\\Nexus\\Views\\Home\\Order.cshtml",
+              "RelativeDocumentMoniker": "Nexus\\Views\\Home\\Order.cshtml",
+              "ToolTip": "C:\\Users\\Rafia Najam\\Downloads\\Nexus\\Nexus\\Views\\Home\\Order.cshtml",
+              "RelativeToolTip": "Nexus\\Views\\Home\\Order.cshtml",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAIwLAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T13:38:39.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafia Najam\\Downloads\\Nexus\\Nexus\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Nexus\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Rafia Najam\\Downloads\\Nexus\\Nexus\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Nexus\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T13:36:34.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafia Najam\\Downloads\\Nexus\\Nexus\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Nexus\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Rafia Najam\\Downloads\\Nexus\\Nexus\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Nexus\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T13:31:45.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafia Najam\\Downloads\\Nexus\\Nexus\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Nexus\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Rafia Najam\\Downloads\\Nexus\\Nexus\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Nexus\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T13:29:18.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rafia Najam\\Downloads\\Nexus\\Nexus\\Views\\Home\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "Nexus\\Views\\Home\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\Rafia Najam\\Downloads\\Nexus\\Nexus\\Views\\Home\\SignUp.cshtml",
+              "RelativeToolTip": "Nexus\\Views\\Home\\SignUp.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAADwvzQAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T13:23:48.233Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

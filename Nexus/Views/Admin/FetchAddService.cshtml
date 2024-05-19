@@ -1,0 +1,64 @@
+﻿@model IEnumerable<NEXUS.Models.AdditionalService>
+@{
+    Layout = "_LayoutAdmin";
+}
+
+
+<!-- Table Start -->
+<div class="container-fluid pt-4 px-4">
+    <div class="row g-4">
+        <div class="col-sm-12 col-xl-12">
+            <div class="bg-light rounded h-100 p-4">
+                <h6 class="mb-4 text-center">FETCH ADDITIONAL SERVICE</h6>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Additinal Service Name</th>
+                                <th>DELETE</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.AddName</td>
+                                <td>
+                                    <a asp-route-id="@item.AddId" asp-controller="Admin" asp-action="deleteService" class="btn btn-danger">DELETE</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@{
+    string alertMessage = TempData["Message"] as string;
+    string delMessage = TempData["DelMessage"] as string;
+    string updateMessage = TempData["UpdateMessage"] as string;
+}
+
+@if (!string.IsNullOrEmpty(alertMessage))
+{
+    <script>
+        alert("@alertMessage");
+    </script>
+}
+
+@if (!string.IsNullOrEmpty(delMessage))
+{
+    <script>
+        alert("@delMessage");
+    </script>
+}
+
+@if (!string.IsNullOrEmpty(updateMessage))
+{
+    <script>
+        alert("@updateMessage");
+    </script>
+}
+

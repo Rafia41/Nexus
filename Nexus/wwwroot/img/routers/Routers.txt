@@ -1,0 +1,46 @@
+
+Router 1:
+LINKSYS CLASSIC MICRO ROUTER
+
+Wi-Fi Standard: Supports IEEE 802.11ac or 802.11n Wi-Fi standards.
+Security: WPA/WPA2 encryption, SPI firewall, and basic security features.
+Processor: Typically equipped with a low-power processor suitable for basic routing tasks.
+Ethernet Ports: 1 or 2 Ethernet LAN ports for wired connections.
+
+Router 2:
+ASUS RT-N14U WIFI ROUTER
+
+Wi-Fi Standard: SupportsSupports IEEE 802.11b/g/n standards, ensuring compatibility with a wide range of devices.
+Security: Provides robust security features such as WPA/WPA2 encryption and SPI firewall to safeguard your network from unauthorized access and malicious threats.
+VPN Support: Supports VPN server and client functionality, enabling secure access to your home or office network from remote locations.
+Ethernet Ports: Includes four 10/100Mbps LAN ports for wired connections to devices like desktop computers, gaming consoles, or smart TVs.
+
+Router 3:
+ASUS RT-AX1800 WIFI ROUTER
+574 + 1201 Mbps
+IEEE 802.11a/b/g/n/ac/ax
+Broadcom BCM6755 @ 1.5 GHz
+256 MB / 128 MB
+
+
+Router 4:
+LINKSYS WRT160N WIFI ROUTER
+
+Wi-Fi Standard: </strong> The WRT160N supports IEEE 802.11n, the latest wireless standard at the time of its release, ensuring faster speeds and better range compared to older standards like 802.11g.</li>
+ Frequency Band: </strong> Operates on the 2.4 GHz frequency band, offering compatibility with a wide range of devices.</li>
+Wireless Speed: </strong> It provides wireless speeds of up to 300 Mbps, which is suitable for basic internet browsing, online gaming, and streaming HD media.</li>
+Compatibility: </strong> Compatible with a wide range of operating systems including Windows, macOS, and Linux, as well as with various internet service providers.</li>
+
+
+
+Router 5:
+TENDA AC6 WIFI ROUTER
+
+Wi-Fi Standard: </strong> IEEE 802.11ac/n/a 5GHz, IEEE 802.11b/g/n 2.4GHz.</li>
+Ethernet Ports:  </strong>4 x 10/100Mbps LAN ports, 1 x 10/100Mbps WAN port.</li>
+Wireless Speed: </strong> Up to 1167Mbps (300Mbps on 2.4GHz + 867Mbps on 5GHz)</li>
+Security: </strong> WPA-PSK/WPA2-PSK wireless encryption & WPS (Wi-Fi Protected Setup) for easy and secure network connection
+
+
+
+  A router is a networking device designed to provide routing and networking functionalities.  

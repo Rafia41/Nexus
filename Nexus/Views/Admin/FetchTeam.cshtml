@@ -1,0 +1,74 @@
+﻿@model IEnumerable<NEXUS.Models.Team>
+
+@{
+    Layout = "_LayoutAdmin";
+}
+
+
+<!-- Table Start -->
+<div class="container-fluid pt-4 px-4">
+    <div class="row g-4">
+        <div class="col-sm-12 col-xl-12">
+            <div class="bg-light rounded h-100 p-4">
+                <h6 class="mb-4 text-center">FETCH PERSON</h6>
+                <table class="table">
+                    <thead>
+                        <tr>    
+                            <th>Person Name</th>
+                            <th>Person Image</th>
+                            <th>UPDATE</th>
+                            <th>DELETE</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                @*  <td>@item.ProdId</td> *@
+                                <td>@item.PersonName</td>
+                                <td><img src="~/@item.PersonImage" width="100px" height="140px"></td>
+                                
+                                <td>
+                                    <a asp-route-id="@item.PersonId" asp-controller="Admin" asp-action="editTeam" class="btn btn-success">UPDATE</a>
+                                </td>
+                                <td>
+                                    <a asp-route-id="@item.PersonId" asp-controller="Admin" asp-action="deleteTeam" class="btn btn-danger">DELETE</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@{
+    string alertMessage = TempData["Message"] as string;
+    string delMessage = TempData["DelMessage"] as string;
+    string updateMessage = TempData["UpdateMessage"] as string;
+}
+
+@if (!string.IsNullOrEmpty(alertMessage))
+{
+    <script>
+        alert("@alertMessage");
+    </script>
+}
+
+@if (!string.IsNullOrEmpty(delMessage))
+{
+    <script>
+        alert("@delMessage");
+    </script>
+}
+
+@if (!string.IsNullOrEmpty(updateMessage))
+{
+    <script>
+        alert("@updateMessage");
+    </script>
+}
+
+

@@ -1,0 +1,330 @@
+ <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+     <div class="feature-item border h-100 p-5">
+         <div class="btn-square mx-auto mb-3" style="width: 60px; height: 60px; margin-left: 130px;">
+             <img class="img-fluid" src="~/img/icon/vdc.webp" alt="Icon">
+         </div>
+
+         <h5 class="mb-3 text-center">Video Calls</h5>
+
+         <p class="text-center">
+             Bring your conversations to life with our video calling feature. Stay connected with friends and family face-to-face, no matter where they are.
+         </p>
+
+         @* <a asp-controller="Home" asp-action="">
+         <button class="btn btn-primary w-75 py-1 px-2" style="margin-left:50px; background-color:#0F1025; border:none" type="submit">Read More</button>
+         </a> *@
+     </div>
+ </div>
+
+ <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+     <div class="feature-item border h-100 p-5">
+         <div class="btn-square mx-auto mb-4" style="width: 60px; height: 60px; margin-left: 90px;">
+             <img class="img-fluid" src="~/img/icon/message.png" alt="Icon">
+         </div>
+
+         <h5 class="mb-3 text-center">Messaging</h5>
+
+         <p class="text-center">
+             Send instant messages, photos, videos, and more with our secure messaging service. Stay in touch with your contacts in real-time, 
+             whether you're sharing updates, making plans, or simply saying hello.
+         </p>
+
+         @* <a asp-controller="Home" asp-action="">
+         <button class="btn btn-primary w-75 py-1 px-2" style="margin-left:50px; background-color:#0F1025; border:none" type="submit">Read More</button>
+         </a> *@
+     </div>
+ </div>
+
+ <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+     <div class="feature-item border h-100 p-5">
+         <div class="btn-square mx-auto mb-4" style="width: 60px; height: 60px; margin-left: 90px;">
+             <img class="img-fluid" src="~/img/icon/cc.png" alt="Icon">
+         </div>
+
+         <h5 class="mb-3 text-center">Conference Calls</h5>
+
+         <p class="text-center">
+             Host virtual meetings and conferences with ease using our conference calling feature. 
+             Collaborate with colleagues, clients, or partners from anywhere in the world.
+         </p>
+
+         @* <a asp-controller="Home" asp-action="">
+         <button class="btn btn-primary w-75 py-1 px-2" style="margin-left:50px; background-color:#0F1025; border:none" type="submit">Read More</button>
+         </a> *@
+     </div>
+ </div>
+
+ <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+     <div class="feature-item border h-100 p-5">
+         <div class="btn-square mx-auto mb-4" style="width: 60px; height: 60px; margin-left: 90px;">
+             <img class="img-fluid" src="~/img/icon/roam.png" alt="Icon">
+         </div>
+
+         <h5 class="mb-3 text-center">International Roaming</h5>
+
+         <p class="text-center">
+             Traveling abroad? Stay connected with our international roaming service. Enjoy seamless access 
+             to voice, data, and messaging services in over 200 countries and territories, so you can stay in touch without worrying about expensive roaming charges.
+         </p>
+
+         @* <a asp-controller="Home" asp-action="">
+         <button class="btn btn-primary w-75 py-1 px-2" style="margin-left:50px; background-color:#0F1025; border:none" type="submit">Read More</button>
+         </a> *@
+     </div>
+ </div>
+
+ <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+     <div class="feature-item border h-100 p-5">
+         <div class="btn-square mx-auto mb-4" style="width: 60px; height: 60px; margin-left: 90px;">
+             <img class="img-fluid" src="~/img/icon/custom.png" alt="Icon">
+         </div>
+
+         <h5 class="mb-3 text-center">Customized Plans</h5>
+
+         <p class="text-center">
+             Choose a plan that fits your needs and budget. Whether you're a light user or a heavy communicator, we have a range of flexible plans to suit every lifestyle. Plus, 
+             with our transparent pricing and no hidden fees, you'll always know exactly what you're paying for.
+         </p>
+
+         @* <a asp-controller="Home" asp-action="">
+         <button class="btn btn-primary w-75 py-1 px-2" style="margin-left:50px; background-color:#0F1025; border:none" type="submit">Read More</button>
+         </a> *@
+     </div>
+ </div>
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="feature-item border h-100 p-5">
+        <div class="btn-square mx-auto mb-3" style="width: 60px; height: 60px; margin-left: 130px;">
+            <img class="img-fluid" src="~/img/icon/secure.png" alt="Icon">
+        </div>
+
+        <h5 class="mb-3 text-center">Secure Connection</h5>
+
+        <p class="text-center">
+            Rest easy knowing that your online activities are protected with our secure connection 
+            protocols. With Nexus, your privacy and security are our top priorities.
+        </p>
+
+        @* <a asp-controller="Home" asp-action="">
+            <button class="btn btn-primary w-75 py-1 px-2" style="margin-left:50px; background-color:#0F1025; border:none" type="submit">Read More</button>
+        </a> *@
+    </div>
+</div>
+
+<div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="feature-item border h-100 p-5">
+        <div class="btn-square mx-auto mb-4" style="width: 60px; height: 60px; margin-left: 90px;">
+            <img class="img-fluid" src="~/img/icon/flex.png" alt="Icon">
+        </div>
+
+        <h5 class="mb-3 text-center">Flexibility</h5>
+
+        <p class="text-center">
+            Choose from a variety of plans and packages to find the perfect fit for your needs.
+        </p>
+
+        @* <a asp-controller="Home" asp-action="">
+            <button class="btn btn-primary w-75 py-1 px-2" style="margin-left:50px; background-color:#0F1025; border:none" type="submit">Read More</button>
+        </a> *@
+    </div>
+</div>
+
+<div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="feature-item border h-100 p-5">
+        <div class="btn-square mx-auto mb-4" style="width: 60px; height: 60px; margin-left: 90px;">
+            <img class="img-fluid" src="~/img/icon/cs.png" alt="Icon">
+        </div>
+
+        <h5 class="mb-3 text-center">24/7 Customer Support</h5>
+
+        <p class="text-center">
+            Our dedicated support team is available around the clock to assist you with any questions or concerns you may have.
+            Whether you need help setting up your connection or troubleshooting an issue, we're here to help.
+        </p>
+
+        @* <a asp-controller="Home" asp-action="">
+            <button class="btn btn-primary w-75 py-1 px-2" style="margin-left:50px; background-color:#0F1025; border:none" type="submit">Read More</button>
+        </a> *@
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+     <div class="feature-item border h-100 p-5">
+
+     @*     <div class="btn-square mx-auto mb-4" style="width: 60px; height: 60px; margin-left: 130px;">
+             <img class="img-fluid" src="~/img/icon/ana.png" alt="Icon">
+         </div> *@
+
+         <h5 class="mb-3 text-center">Analog Dial-up</h5>
+         <p class="text-center">
+             This is the traditional form of dial-up connection where a modem dials a phone number and establishes a connection using analog signals over a standard telephone line. 
+             Analog dial-up connections are relatively slow, with speeds typically limited to 56 kilobits per second (Kbps).
+         </p>
+         @*  <a asp-controller="Home" asp-action="">
+         <button class="moreless-button btn btn-primary w-75 py-1 px-2" style="margin-left:50px; background-color:#0F1025; border:none" type="submit">Read More</button>
+         </a> *@
+     </div>
+ </div>
+ <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+     <div class="feature-item border h-100 p-5">
+         <div class="btn-square mx-auto mb-3" style="width: 80px; height: 80px; margin-left: 130px;">
+             <img class="img-fluid" src="~/img/icon/ss.png" alt="Icon">
+         </div>
+
+         <h5 class="mb-3 text-center">Digital Subscriber Line (DSL)</h5>
+
+         <p class="text-center">
+             DSL offers significantly faster speeds compared to analog dial-up, with download speeds ranging from a few megabits per second (Mbps) to over 100 Mbps, 
+             depending on the DSL variant and distance from the provider's central office.
+         </p>
+
+         @* <a asp-controller="Home" asp-action="">
+         <button class="btn btn-primary w-75 py-1 px-2" style="margin-left:50px; background-color:#0F1025; border:none" type="submit">Read More</button>
+         </a> *@
+     </div>
+ </div>
+
+ <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+     <div class="feature-item border h-100 p-5">
+         <div class="btn-square mx-auto mb-4" style="width: 60px; height: 60px; margin-left: 90px;">
+             <img class="img-fluid" src="~/img/icon/isdn.png" alt="Icon">
+         </div>
+
+         <h5 class="mb-3 text-center">Integrated Services Digital Network (ISDN)</h5>
+
+         <p class="text-center">
+             ISDN is a digital dial-up technology that provides faster internet access compared to traditional analog dial-up. It utilizes digital signaling over existing telephone lines to achieve speeds of up to 128 Kbps or higher. 
+             ISDN connections require special ISDN modems and may involve dialing a specific phone number to establish the connection.
+         </p>
+
+         @* <a asp-controller="Home" asp-action="">
+         <button class="btn btn-primary w-75 py-1 px-2" style="margin-left:50px; background-color:#0F1025; border:none" type="submit">Read More</button>
+         </a> *@
+     </div>
+ </div>
+
+ <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+     <div class="feature-item border h-100 p-5">
+         <div class="btn-square mx-auto mb-4" style="width: 60px; height: 60px; margin-left: 90px;">
+             <img class="img-fluid" src="~/img/icon/md.webp" alt="Icon">
+         </div>
+
+         <h5 class="mb-3 text-center">Mobile Dial-up</h5>
+
+         <p class="text-center">
+             Some mobile devices, such as smartphones and feature phones, can establish internet connections through a dial-up-like process using cellular networks. 
+             This may involve dialing a special number or initiating a connection through the device's settings to access the internet over the cellular network.
+         </p>
+
+         @* <a asp-controller="Home" asp-action="">
+         <button class="btn btn-primary w-75 py-1 px-2" style="margin-left:50px; background-color:#0F1025; border:none" type="submit">Read More</button>
+         </a> *@
+     </div>
+ </div>
+
+
+
+
+
+
+    <div class="feature-item border h-100 p-5">
+
+        <div class="btn-square mx-auto mb-4" style="width: 60px; height: 60px; margin-left: 130px;">
+            <img class="img-fluid" src="~/img/icon/ci.png" alt="Icon">
+        </div>
+
+        <h5 class="mb-3 text-center">Cable Internet</h5>
+        <p class="text-center">
+            Cable internet utilizes the same coaxial cables that deliver cable television signals to provide internet access. 
+            It offers higher speeds compared to DSL and is typically more widely available in urban and suburban areas.
+        </p>
+        @*  <a asp-controller="Home" asp-action="">
+        <button class="moreless-button btn btn-primary w-75 py-1 px-2" style="margin-left:50px; background-color:#0F1025; border:none" type="submit">Read More</button>
+        </a> *@
+    </div>
+</div>
+<div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="feature-item border h-100 p-5">
+        <div class="btn-square mx-auto mb-3" style="width: 60px; height: 60px; margin-left: 130px;">
+            <img class="img-fluid" src="~/img/icon/of.png" alt="Icon">
+        </div>
+
+        <h5 class="mb-3 text-center">Fiber Optic Internet</h5>
+
+        <p class="text-center">
+            Fiber optic internet delivers data using light signals transmitted through optical fibers made of glass or plastic. 
+            It offers the fastest internet speeds and the most reliable connection compared to DSL and cable internet.
+        </p>
+
+        @* <a asp-controller="Home" asp-action="">
+        <button class="btn btn-primary w-75 py-1 px-2" style="margin-left:50px; background-color:#0F1025; border:none" type="submit">Read More</button>
+        </a> *@
+    </div>
+</div>
+
+<div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="feature-item border h-100 p-5">
+        <div class="btn-square mx-auto mb-4" style="width: 60px; height: 60px; margin-left: 90px;">
+            <img class="img-fluid" src="~/img/icon/wireless.png" alt="Icon">
+        </div>
+
+        <h5 class="mb-3 text-center">Fixed Wireless Internet</h5>
+
+        <p class="text-center">
+            Fixed wireless internet utilizes radio signals transmitted between a fixed antenna at the user's location and a nearby base station to provide internet access. Fixed wireless internet speeds can vary depending on factors such as signal strength and interference.
+        </p>
+
+        @* <a asp-controller="Home" asp-action="">
+        <button class="btn btn-primary w-75 py-1 px-2" style="margin-left:50px; background-color:#0F1025; border:none" type="submit">Read More</button>
+        </a> *@
+    </div>
+</div>
+
+<div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="feature-item border h-100 p-5">
+        <div class="btn-square mx-auto mb-4" style="width: 60px; height: 60px; margin-left: 90px;">
+            <img class="img-fluid" src="~/img/icon/mobile.png" alt="Icon">
+        </div>
+
+        <h5 class="mb-3 text-center">Mobile Broadband</h5>
+
+        <p class="text-center">
+            Mobile broadband allows users to access the internet wirelessly via cellular networks using devices such as smartphones, tablets, and mobile hotspots.
+            
+            It provides internet access on the go and is widely available in urban and rural areas with cellular coverage.
+        </p>
+
+        @* <a asp-controller="Home" asp-action="">
+        <button class="btn btn-primary w-75 py-1 px-2" style="margin-left:50px; background-color:#0F1025; border:none" type="submit">Read More</button>
+        </a> *@
+    </div>
+</div>
+
+
+
+
+
+
+

@@ -1,0 +1,35 @@
+﻿
+
+@model NEXUS.Models.Team
+@{
+    Layout = "_LayoutAdmin";
+}
+
+
+<div class="container-fluid pt-4 px-4">
+    <div class="row g-4">
+        <div class="col-sm-12 col-xl-12">
+            <div class="bg-light rounded h-100 p-4">
+                <h6 class="mb-4">ADD-PRODUCT</h6>
+                <form enctype="multipart/form-data" asp-controller="Admin" asp-action="EditTeam2">
+                    @Html.AntiForgeryToken()
+                    <div class="mb-3">
+                        <input type="hidden" asp-for="PersonId" class="form-control">
+                    </div>
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Person Name</label>
+                        <input type="text" class="form-control" asp-for="PersonName">
+                    </div>
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Person Image</label>
+                        <input type="file" class="form-control" name="file">
+                        <img src="~/@Model.PersonImage" height="100px" width="100px" />
+                    </div>
+                    <button type="submit" class="btn btn-success mt-2">SUBMIT</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+

@@ -1,0 +1,27 @@
+
+
+
+
+PlanId	PlanName	           PlanBasis	PlanPrice	PlanHours	PlanSpeed	PlanValidity
+1	Dial-Up Connection 	Hourly	50	10hrs	                   None	(Valid for one month)
+2	Dial-Up Connection 	Hourly	130	15hrs	                  None	(Valid for three months)
+3	Dial-Up Connection 	Hourly	200	20hrs	                 None	(Valid for six months)
+4	Dial-Up Connection 	Monthly	75	None	           Unlimited 28Kbps	Monthly
+5	Dial-Up Connection	                Monthly	150	None	          Unlimited 28Kbps	Quarterly
+7	Dial-Up Connection 	Monthly	100	None	             56Kbps	Monthly
+8	Dial-Up Connection	                Monthly	180	None	                  56Kbps	Quarterly
+9	Broadband Connection	Hourly	175	30hrs	               None	(Valid for one month)
+10	Broadband Connection	Hourly	315	60 hrs	                 None	(Valid for six months)
+11	Broadband Connection	Monthly	225	None	             Unlimited 64Kbps	Monthly
+12	Broadband Connection	Monthly	400	None	         Unlimited 64Kbps	Quarterly
+13	Broadband Connection	Monthly	350	None	           Unlimited 128Kbps	Monthly
+14	Broadband Connection	Monthly	445	None	         Unlimited 128Kbps	Quarterly
+15	Landline Connection	Local	75	None	             Unlimited	Per Year (Rental)
+16	Landline Connection 	Local	40	Call charges	None	None
+17	Landline Connection	Monthly	85	None	                  None	Per Month (rental)
+19	Landline Connection	Local	50	Call charges	        None	None
+20	Landline Connection	Local	350	None	             Unlimited 128Kbps	Monthly
+21	Landline Connection	Local	445	None	       Unlimited 128Kbps	Quarterly
+22	Landline Connection	STD	125	None	            None	Per Month (rental)
+23	Landline Connection	STD	420	None	            None	Half-Yearly-Per Month (rental)
+24	Landline Connection	STD	800	None	             None	Yearly-Per Month (rental)

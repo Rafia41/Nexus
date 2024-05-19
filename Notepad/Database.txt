@@ -1,0 +1,167 @@
+Create database Nexus_Db;
+use Nexus_Db;
+
+Create Table Employee(
+EmpID INT Primary Key IDENTITY(1,1),
+EmpName Varchar(120) NOT NULL,
+EmpRole Varchar(100) NOT NULL,
+EmpNum BIGINT NOT NULL,
+EmpMail VARCHAR(150) NOT NULL,
+);
+
+Create Table Customer(
+CustomId INT Primary Key IDENTITY(1,2),
+CustomName Varchar(120) NOT NULL,
+CustomAddress Varchar(200) NOT NULL,
+CustomNum BIGINT NOT NULL,
+CustomMail VARCHAR(150) NOT NULL,
+CustomAccount_ID BIGINT NOT NULL,
+Connection_Type Varchar(150) NOT NULL,
+Feasibility_Status Varchar(120) NOT NULL,
+Connection_Status Varchar(120) NOT NULL,
+Security_Deposit BIGINT NOT NULL,
+Total_Bill_Amount BIGINT NOT NULL,
+Payment_Status Varchar(100) NOT NULL,
+);
+
+Create Table Product(
+ProdId INT Primary Key IDENTITY(1,1),
+ProdName Varchar(120) NOT NULL,
+Vendor_Id INT,
+FOREIGN KEY (Vendor_Id) REFERENCES Vendor(Vendor_Id),
+Stock_Available VARCHAR(100) NOT NULL
+);
+
+Create Table Order_Db(
+Order_ID INT Primary Key IDENTITY(1,1),
+Order_Date Date NOT NULL,
+Order_Status VARCHAR(100) NOT NULL,
+CustomId INT,
+FOREIGN KEY (CustomId) REFERENCES Customer(CustomId)
+);
+
+Create Table Vendor(
+Vendor_Id INT Primary Key IDENTITY(1,1),
+Vendor_Name Varchar(120) NOT NULL,
+Vendor_Number BIGINT NOT NULL,
+Vendor_Email Varchar(150) NOT NULL, 
+);
+
+Create Table Shop(
+Shop_ID INT Primary Key IDENTITY(1,1),
+Shop_Name Varchar(120) NOT NULL,
+Shop_Location Varchar(200) NOT NULL,
+Shop_Number BIGINT NOT NULL,
+Shop_Email VARCHAR(150) NOT NULL,
+);
+
+Create Table Connection(
+Plan_ID INT Primary Key IDENTITY(1,1),
+Plan_Name Varchar(120) NOT NULL,
+Connection_Type Varchar(120) NOT NULL,
+Plan_Description Varchar(500) NOT NULL,
+Plan_Price BIGINT NOT NULL,
+Validity_Period Varchar(500) NOT NULL,
+);
+
+Create Table Billing(
+Billing_ID INT Primary Key IDENTITY(1,1),
+Bill_Amount BIGINT NOT NULL,
+Payment_Date Date NOT NULL,
+Payment_Amount BIGINT NOT NULL,
+Due_Amount BIGINT NOT NULL,
+Service_Tax BIGINT NOT NULL,
+CustomId INT,
+FOREIGN KEY (CustomId) REFERENCES Customer(CustomId),
+Order_ID INT,
+FOREIGN KEY (Order_ID) REFERENCES Order_Db(Order_ID)
+);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Customer:
+Customer_ID (Primary Key)
+Name
+Address
+Contact Number
+Email
+Account_ID
+Connection_Type (Dial-Up, Broadband, Landline)
+Feasibility_Status
+Connection_Status
+Security_Deposit
+Total_Bill_Amount
+Payment_Status
+
+
+Order:
+Order_ID (Primary Key)
+Customer_ID (Foreign Key)
+Order_Date
+Order_Status
+
+
+Product:
+Product_ID (Primary Key)
+Product_Name
+Vendor_ID (Foreign Key)
+Stock_Available
+
+
+Vendor:
+Vendor_ID (Primary Key)
+Vendor_Name
+Contact_Number
+Email
+
+
+Retail_Shop:
+Shop_ID (Primary Key)
+Shop_Name
+Location
+Contact_Number
+Email
+
+
+Employee:
+Employee_ID (Primary Key)
+Name
+Role (Admin, Accounts, Technical, Retail Staff)
+Contact_Number
+Email
+
+
+Connection_Plan:
+Plan_ID (Primary Key)
+Plan_Name
+Connection_Type
+Description
+Price
+Validity_Period
+
+
+Billing_Details:
+Billing_ID (Primary Key)
+Customer_ID (Foreign Key)
+Order_ID (Foreign Key)
+Bill_Amount
+Payment_Date
+Payment_Amount
+Due_Amount
+Service_Tax

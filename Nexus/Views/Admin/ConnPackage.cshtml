@@ -1,0 +1,23 @@
+﻿@model NEXUS.Models.ConnectionPackage
+
+@{
+    Layout = "_LayoutAdmin";
+}
+
+<div class="container-fluid pt-4 px-4">
+    <div class="row g-4">
+        <div class="col-sm-12 col-xl-12">
+            <div class="bg-light rounded h-100 p-4">
+                <h6 class="mb-4">ADD-PACKAGE</h6>
+                <form method="post" asp-controller="Admin" asp-action="ConnPackage">
+                    @Html.AntiForgeryToken()
+                    <div class="mb-3">
+                        <label class="form-label">Package Name:</label>
+                        <input type="text" class="form-control" asp-for="PackageName">
+                    </div>
+                    <button type="submit" class="btn btn-success">SUBMIT</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

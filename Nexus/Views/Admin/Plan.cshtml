@@ -1,0 +1,165 @@
+﻿@{
+    Layout = "_LayoutAdmin";
+}
+@model NEXUS.Models.PlanDb2
+
+
+<div class="container-fluid pt-4 px-4">
+    <div class="row g-4">
+        <div class="col-sm-12 col-xl-12">
+            <div class="bg-light rounded h-100 p-4">
+                <h6 class="mb-4">ADD-PACKAGES</h6>
+                <form method="post" asp-controller="Admin" asp-action="Plan">
+                    @Html.AntiForgeryToken()
+
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Name 1</label>
+                        <input type="text" class="form-control" asp-for="PlanName1">
+                    </div>
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Name 2</label>
+                        <input type="text" class="form-control" asp-for="PlanName2">
+                    </div>
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Name 3</label>
+                        <input type="text" class="form-control" asp-for="PlanName3">
+                    </div>
+
+
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Basis 1</label>
+                        <input type="text" class="form-control" asp-for="PlanBasis1">
+                    </div>
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Basis 2</label>
+                        <input type="text" class="form-control" asp-for="PlanBasis2">
+                    </div>
+                 <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Basis 3</label>
+                        <input type="text" class="form-control" asp-for="PlanBasis3">
+                    </div>
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Basis 4</label>
+                        <input type="text" class="form-control" asp-for="PlanBasis4">
+                    </div>
+
+
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Hours 1</label>
+                        <input type="text" class="form-control" asp-for="PlanHours1">
+                    </div>
+                         <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Hours 2</label>
+                        <input type="text" class="form-control" asp-for="PlanHours2">
+                    </div>
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Hours 3</label>
+                        <input type="text" class="form-control" asp-for="PlanHours3">
+                    </div>
+                      <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Hours 4</label>
+                        <input type="text" class="form-control" asp-for="PlanHours4">
+                    </div>
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Hours 5</label>
+                        <input type="text" class="form-control" asp-for="PlanHours5">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Price 1</label>
+                        <input type="text" class="form-control" asp-for="PlanPrice1">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Price 2</label>
+                        <input type="text" class="form-control" asp-for="PlanPrice2">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Price 3</label>
+                        <input type="text" class="form-control" asp-for="PlanPrice3">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Price 4</label>
+                        <input type="text" class="form-control" asp-for="PlanPrice4">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Price 5</label>
+                        <input type="text" class="form-control" asp-for="PlanPrice5">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Price 6</label>
+                        <input type="text" class="form-control" asp-for="PlanPrice6">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Price 7</label>
+                        <input type="text" class="form-control" asp-for="PlanPrice7">
+                    </div>
+
+
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Speed 1</label>
+                        <input type="text" class="form-control" asp-for="PlanSpeed1">
+                    </div>
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Speed 2</label>
+                        <input type="text" class="form-control" asp-for="PlanSpeed2">
+                    </div>
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Speed 3</label>
+                        <input type="text" class="form-control" asp-for="PlanSpeed3">
+                    </div>
+
+
+
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Validity 1</label>
+                        <input type="text" class="form-control" asp-for="PlanValidity1">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Validity 2</label>
+                        <input type="text" class="form-control" asp-for="PlanValidity2">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Validity 3</label>
+                        <input type="text" class="form-control" asp-for="PlanValidity3">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Validity 4</label>
+                        <input type="text" class="form-control" asp-for="PlanValidity4">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Validity 5</label>
+                        <input type="text" class="form-control" asp-for="PlanValidity5">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Validity 6</label>
+                        <input type="text" class="form-control" asp-for="PlanValidity6">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Validity 7</label>
+                        <input type="text" class="form-control" asp-for="PlanValidity7">
+                    </div>
+
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label">Plan Validity 8</label>
+                        <input type="text" class="form-control" asp-for="PlanValidity8">
+                    </div>
+
+
+                    <button type="submit" class="btn btn-success mt-2">SUBMIT</button>
+                </form>
+            </div>
+        </div>
+    </div>
+

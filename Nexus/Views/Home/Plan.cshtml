@@ -1,0 +1,168 @@
+﻿@model IEnumerable<NEXUS.Models.PlanDb2>
+
+<div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s">
+    <div class="container text-center py-5">
+        <h1 class="display-2 text-white mb-4 animated slideInDown">Plan </h1>
+        <nav aria-label="breadcrumb animated slideInDown">
+            <ol class="breadcrumb justify-content-center mb-0">
+                <li class="breadcrumb-item"><a href="#">Home</a></li>
+                <li class="breadcrumb-item"><a href="#">Pages</a></li>
+                <li class="breadcrumb-item text-primary" aria-current="page"></li>
+            </ol>
+        </nav>
+    </div>
+</div>
+
+
+<section class="ftco-section">
+    <div class="container">
+        <div class="row justify-content-center mb-5">
+            <div class="col-md-7 heading-section text-center" data-aos="fade-up" data-aos-duration="1000">
+                <span class="subheading">Plan Details</span>
+                <span class="fs-2 fw-bold">Choose Your Plans</span>
+                <p>
+                    Maintain detailed descriptions of each plan, including the type of connection, validity period, and associated charges.
+                    Here's a breakdown of the various plan details:
+                </p>
+            </div>
+        </div>
+      
+            <div class="row">
+                @foreach(var item in Model)
+                {
+                <span class=" number fs-2 text-center fw-bold">@item.PlanName1</span>
+                <span class=" number fs-5 text-center fw-bolder">
+                    <img class="img-fluid" src="~/img/icon/alert.png" alt="Icon" width="40" height="40">
+                    Security Deposit  for Dial-Up Connection are:<span class="fw-bolder fs-4">  $325</span>
+                </span>
+                <div class="col-md-12 col-lg-6" data-aos="flip-left" data-aos-duration="1000" data-aos-delay="100">
+                    <div class="block-7">
+                        <div class="text-center">
+                            <span class="excerpt d-block fs-5 bg-success text-white">@item.PlanBasis1</span>
+                            <ul class="pricing-text mb-5">
+                                <li><span class="fa fa-check me-3"></span><sup class="fs-6">$</sup><span class="fs-3 fw-bold">@item.PlanPrice1 : @item.PlanHours1</span><br /> @item.PlanValidity1</li>
+                                <li><span class="fa fa-check me-3"></span><sup class="fs-6">$</sup><span class="fs-3 fw-bold">@item.PlanPrice2 : @item.PlanHours2</span><br /> @item.PlanValidity2</li>
+                                <li><span class="fa fa-check me-3"></span><sup class="fs-6">$</sup><span class="fs-3 fw-bold">@item.PlanPrice3 : @item.PlanHours3</span><br /> @item.PlanValidity3</li>
+                                @* <li><span class="fa fa-check me-2"></span><sup class="fs-6">$</sup><span class="fs-3 fw-bold">130 : 15hrs</span><br /> (valid for three months)</li>
+                                <li><span class="fa fa-check me-2"></span><sup class="fs-6">$</sup><span class="fs-3 fw-bold">200 : 20hrs</span><br /> (valid for six months)</li> *@
+
+                            </ul>
+                            <a href="#" class="btn btn-primary d-block px-2 py-3">Get Now</a>
+                        </div>
+                    </div>
+                </div> 
+                <div class="col-md-12 col-lg-6" data-aos="flip-left" data-aos-duration="1000" data-aos-delay="200">
+                    <div class="block-7">
+                        <div class="text-center">
+                            <span class="excerpt d-block fs-5 bg-success text-white">@item.PlanBasis2</span>
+                            <ul class="pricing-text mb-5">
+                                <li><span class="fa fa-check me-3"></span><sup class="fs-6">$</sup><span class="fs-4 fw-bold">@item.PlanPrice4 :@item.PlanSpeed1</span><br /> @item.PlanValidity4 </li>
+                                <li><span class="fa fa-check me-3"></span><sup class="fs-6">$</sup><span class="fs-4 fw-bold">@item.PlanPrice5 :Unlimited 56Kbps</span><br /> @item.PlanValidity5 </li>
+                                <li><span class="fa fa-check me-3"></span><sup class="fs-6">$</sup><span class="fs-4 fw-bold">@item.PlanPrice6 :Unlimited 64Kbps</span><br /> @item.PlanValidity4 </li>
+                                <li><span class="fa fa-check me-3"></span><sup class="fs-6">$</sup><span class="fs-4 fw-bold">@item.PlanPrice7 :@item.PlanSpeed3</span><br /> @item.PlanValidity5 </li>
+                                @* <li><span class="fa fa-check me-2"></span><sup class="fs-6">$</sup><span class="fs-4 fw-bold">150 : Unlimited  28Kbps</span><br /> Quarterly</li>
+                                <li><span class="fa fa-check me-2"></span><sup class="fs-6">$</sup><span class="fs-4 fw-bold">100 : Unlimited  56Kbps</span><br /> Monthly</li>
+                                <li><span class="fa fa-check me-2"></span><sup class="fs-6">$</sup><span class="fs-4 fw-bold">180 : Unlimited  56Kbps</span><br /> Quarterly</li> *@
+                            </ul>
+                            <a href="#" class="btn btn-primary d-block px-2 py-3">Get Now</a>
+                        </div>
+                    </div>
+                    
+                </div>
+                  }
+            </div>
+
+            <br />
+            <br />
+
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <span class=" number fs-2 text-center fw-bold">@item.PlanName2</span>
+                <span class=" number fs-5 text-center fw-bolder">
+                    <img class="img-fluid" src="~/img/icon/alert.png" alt="Icon" width="40" height="40">
+                    Security Deposit  for Broadband Connection are:<span class="fw-bolder fs-4">  $500</span>
+                </span>
+                <div class="col-md-12 col-lg-6" data-aos="flip-left" data-aos-duration="1000" data-aos-delay="100">
+                    <div class="block-7">
+                        <div class="text-center">
+                            <span class="excerpt d-block fs-5 bg-success text-white">@item.PlanBasis1</span>
+                            <ul class="pricing-text mb-5">
+                                <li><span class="fa fa-check me-3"></span><sup class="fs-6">$</sup><span class="fs-3 fw-bold">@item.PlanPrice1 : @item.PlanHours3</span><br /> @item.PlanValidity1</li>
+                                <li><span class="fa fa-check me-3"></span><sup class="fs-6">$</sup><span class="fs-3 fw-bold">@item.PlanPrice2 : @item.PlanHours4</span><br /> @item.PlanValidity3</li>
+                                @* <li><span class="fa fa-check me-3"></span><sup class="fs-6">$</sup><span class="fs-3 fw-bold">@item.PlanPrice3 : @item.PlanHours3</span><br /> @item.PlanValidity3</li> *@
+                                @* <li><span class="fa fa-check me-2"></span><sup class="fs-6">$</sup><span class="fs-3 fw-bold">130 : 15hrs</span><br /> (valid for three months)</li>
+                            <li><span class="fa fa-check me-2"></span><sup class="fs-6">$</sup><span class="fs-3 fw-bold">200 : 20hrs</span><br /> (valid for six months)</li> *@
+
+                            </ul>
+                            <a href="#" class="btn btn-primary d-block px-2 py-3">Get Now</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12 col-lg-6" data-aos="flip-left" data-aos-duration="1000" data-aos-delay="200">
+                    <div class="block-7">
+                        <div class="text-center">
+                            <span class="excerpt d-block fs-5 bg-success text-white">@item.PlanBasis2</span>
+                            <ul class="pricing-text mb-5">
+                                <li><span class="fa fa-check me-3"></span><sup class="fs-6">$</sup><span class="fs-4 fw-bold">@item.PlanPrice3 :@item.PlanSpeed1</span><br /> @item.PlanValidity4 </li>
+                                <li><span class="fa fa-check me-3"></span><sup class="fs-6">$</sup><span class="fs-4 fw-bold">@item.PlanPrice5 :Unlimited 56Kbps</span><br /> @item.PlanValidity5 </li>
+                                <li><span class="fa fa-check me-3"></span><sup class="fs-6">$</sup><span class="fs-4 fw-bold">@item.PlanPrice4 :@item.PlanSpeed2</span><br /> @item.PlanValidity4 </li>
+                                <li><span class="fa fa-check me-3"></span><sup class="fs-6">$</sup><span class="fs-4 fw-bold">@item.PlanPrice6 :@item.PlanSpeed3</span><br /> @item.PlanValidity5 </li>
+                                @* <li><span class="fa fa-check me-2"></span><sup class="fs-6">$</sup><span class="fs-4 fw-bold">150 : Unlimited  28Kbps</span><br /> Quarterly</li>
+                            <li><span class="fa fa-check me-2"></span><sup class="fs-6">$</sup><span class="fs-4 fw-bold">100 : Unlimited  56Kbps</span><br /> Monthly</li>
+                            <li><span class="fa fa-check me-2"></span><sup class="fs-6">$</sup><span class="fs-4 fw-bold">180 : Unlimited  56Kbps</span><br /> Quarterly</li> *@
+                            </ul>
+                            <a href="#" class="btn btn-primary d-block px-2 py-3">Get Now</a>
+                        </div>
+                    </div>
+
+                </div>
+            }
+        </div>
+
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <span class=" number fs-2 text-center fw-bold">@item.PlanName3</span>
+                <span class=" number fs-5 text-center fw-bolder">
+                    <img class="img-fluid" src="~/img/icon/alert.png" alt="Icon" width="40" height="40">
+                    Security Deposit  for Landline Connection are:<span class="fw-bolder fs-4">  $250</span>
+                </span>
+
+                <div class="col-md-12 col-lg-6" data-aos="flip-left" data-aos-duration="1000" data-aos-delay="100">
+                    <div class="block-7">
+                        <div class="text-center">
+                            <span class="excerpt d-block fs-5 bg-success text-white">@item.PlanBasis3</span>
+                            <ul class="pricing-text mb-5">
+                                <li><span class="fa fa-check me-3"></span><sup class="fs-6">$</sup><span class="fs-3 fw-bold">@item.PlanPrice1 : Unlimited</span><br /> @item.PlanValidity6</li>
+                                <li><span class="fa fa-check me-3"></span><sup class="fs-6">$</sup><span class="fs-3 fw-bold">@item.PlanPrice2 : @item.PlanHours5</span><br /> </li>
+                                @* <li><span class="fa fa-check me-3"></span><sup class="fs-6">$</sup><span class="fs-3 fw-bold">@item.PlanPrice3 : @item.PlanHours3</span><br /> @item.PlanValidity3</li> *@
+                                @* <li><span class="fa fa-check me-2"></span><sup class="fs-6">$</sup><span class="fs-3 fw-bold">130 : 15hrs</span><br /> (valid for three months)</li>
+                            <li><span class="fa fa-check me-2"></span><sup class="fs-6">$</sup><span class="fs-3 fw-bold">200 : 20hrs</span><br /> (valid for six months)</li> *@
+
+                            </ul>
+                            <a href="#" class="btn btn-primary d-block px-2 py-3">Get Now</a>
+                        </div>
+                    </div>
+                </div>
+               
+
+            <div class="col-md-12 col-lg-6" data-aos="flip-left" data-aos-duration="1000" data-aos-delay="200">
+                <div class="block-7">
+                    <div class="text-center">
+                            <span class="excerpt d-block fs-5 bg-success text-white">@item.PlanBasis4</span>
+                        <ul class="pricing-text mb-5">
+                                <li><span class="fa fa-check me-3"></span><sup class="fs-6">$</sup><span class="fs-3 fw-bold">@item.PlanPrice2</span><br /> @item.PlanValidity6</li>
+                                <li><span class="fa fa-check me-3"></span><sup class="fs-6">$</sup><span class="fs-3 fw-bold">@item.PlanPrice6</span><br /> @item.PlanValidity7</li>
+                                <li><span class="fa fa-check me-3"></span><sup class="fs-6">$</sup><span class="fs-3 fw-bold">@item.PlanPrice7</span><br /> @item.PlanValidity8</li>
+                        <a href="#" class="btn btn-primary d-block px-2 py-3">Get Now</a>
+                    </div>
+                </div>
+
+            </div>
+            }
+        </div>
+          
+
+    </div>
+</section>

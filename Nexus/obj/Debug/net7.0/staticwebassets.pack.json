@@ -1,0 +1,1405 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\NEXUS.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NEXUS.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\ARRIS SURFboard SB6183 Cable Modem.png",
+      "PackagePath": "staticwebassets\\assets\\img\\ARRIS SURFboard SB6183 Cable Modem.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\ASUS RT-AX1800 WIFI ROUTER.png",
+      "PackagePath": "staticwebassets\\assets\\img\\ASUS RT-AX1800 WIFI ROUTER.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\ASUS RT-N14U WIFI ROUTER.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ASUS RT-N14U WIFI ROUTER.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\Active Optical Cable (AOC).jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Active Optical Cable (AOC).jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\Hussain.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Hussain.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\Hussain7451298e-6e3d-466c-870f-577b85aae1c5.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Hussain7451298e-6e3d-466c-870f-577b85aae1c5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\IMG-20231123-WA0091.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\IMG-20231123-WA0091.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\IMG-20231206-WA0065.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\IMG-20231206-WA0065.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\IMG-20240130-WA0060b613e5d7-8e65-42d5-ba53-82bb5dc78596.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\IMG-20240130-WA0060b613e5d7-8e65-42d5-ba53-82bb5dc78596.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\IMG-20240413-WA00112aa82a3e-cdcf-44a7-9a6a-473bb4b6574d.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\IMG-20240413-WA00112aa82a3e-cdcf-44a7-9a6a-473bb4b6574d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\LINKSYS CLASSIC MICRO ROUTER.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\LINKSYS CLASSIC MICRO ROUTER.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\LINKSYS WRT160N WIFI ROUTER.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\LINKSYS WRT160N WIFI ROUTER.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\Linksys Classic Micro Router 5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Linksys Classic Micro Router 5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\Motorola MB7621 Cable Modem.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Motorola MB7621 Cable Modem.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\Mudassir9c60cfcc-e384-43f9-867f-5a10a48bde96.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Mudassir9c60cfcc-e384-43f9-867f-5a10a48bde96.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\Multimode Fiber (MMF).jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Multimode Fiber (MMF).jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\NETGEAR Nighthawk CM1200 DOCSIS 3.1 Cable Modem.jfif",
+      "PackagePath": "staticwebassets\\assets\\img\\NETGEAR Nighthawk CM1200 DOCSIS 3.1 Cable Modem.jfif"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\Picsart_24-01-16_23-59-07-477.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Picsart_24-01-16_23-59-07-477.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\Plastic Optical Fiber (POF).png",
+      "PackagePath": "staticwebassets\\assets\\img\\Plastic Optical Fiber (POF).png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\Rafia26f24cb9-7844-4205-9fcd-272992d1f1f8.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Rafia26f24cb9-7844-4205-9fcd-272992d1f1f8.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\Rafiafb6c51b6-ba90-48b9-8c1b-3dc6d55723b0.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\Rafiafb6c51b6-ba90-48b9-8c1b-3dc6d55723b0.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\Screenshot_20240427-1709229777519d-b4e3-4a55-8e31-dddd12cde7f7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Screenshot_20240427-1709229777519d-b4e3-4a55-8e31-dddd12cde7f7.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\Screenshot_20240427-170922a4db3c68-60ad-4d97-b1e6-e1b110cadfa7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Screenshot_20240427-170922a4db3c68-60ad-4d97-b1e6-e1b110cadfa7.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\Screenshot_20240427-170922b86e9fc4-8713-491b-bccb-a7afb967b50c.png",
+      "PackagePath": "staticwebassets\\assets\\img\\Screenshot_20240427-170922b86e9fc4-8713-491b-bccb-a7afb967b50c.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\Single-Mode Fiber.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Single-Mode Fiber.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\TENDA AC6 WIFI ROUTER.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\TENDA AC6 WIFI ROUTER.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\Tplink.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Tplink.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\mudassir19a40390-dde7-4cda-9d54-bb5b5787ffb2.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\mudassir19a40390-dde7-4cda-9d54-bb5b5787ffb2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\mudassira9e7123d-e3d0-4f06-b2e7-225406aa3a20.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\mudassira9e7123d-e3d0-4f06-b2e7-225406aa3a20.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\mudiif630e3df-2d8f-4c14-90b5-5bfc80cc20fe.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\mudiif630e3df-2d8f-4c14-90b5-5bfc80cc20fe.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\ribbon fiber.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ribbon fiber.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\router2f7daad6a-01be-4947-8068-92e6a0bc084f.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\router2f7daad6a-01be-4947-8068-92e6a0bc084f.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\router5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\router5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\img\\zoom_telephonics.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\zoom_telephonics.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\assets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\Hussain.jpg",
+      "PackagePath": "staticwebassets\\img\\Hussain.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\Logo.png",
+      "PackagePath": "staticwebassets\\img\\Logo.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\Logo2.png",
+      "PackagePath": "staticwebassets\\img\\Logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\NexusLogo.png",
+      "PackagePath": "staticwebassets\\img\\NexusLogo.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\Okasha.png",
+      "PackagePath": "staticwebassets\\img\\Okasha.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\Rafia.jpg",
+      "PackagePath": "staticwebassets\\img\\Rafia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\b2.jpg",
+      "PackagePath": "staticwebassets\\img\\b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\b3.jpg",
+      "PackagePath": "staticwebassets\\img\\b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\b6.jpg",
+      "PackagePath": "staticwebassets\\img\\b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\favicon.icon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.icon.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\fiber cables\\Active Optical Cable (AOC).jpg",
+      "PackagePath": "staticwebassets\\img\\fiber cables\\Active Optical Cable (AOC).jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\fiber cables\\Multimode Fiber (MMF).jpg",
+      "PackagePath": "staticwebassets\\img\\fiber cables\\Multimode Fiber (MMF).jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\fiber cables\\Plastic Optical Fiber (POF).png",
+      "PackagePath": "staticwebassets\\img\\fiber cables\\Plastic Optical Fiber (POF).png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\fiber cables\\Single-Mode Fiber.jpg",
+      "PackagePath": "staticwebassets\\img\\fiber cables\\Single-Mode Fiber.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\fiber cables\\description.txt",
+      "PackagePath": "staticwebassets\\img\\fiber cables\\description.txt"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\fiber cables\\ribbon fiber.jpg",
+      "PackagePath": "staticwebassets\\img\\fiber cables\\ribbon fiber.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\11.png",
+      "PackagePath": "staticwebassets\\img\\icon\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\12.png",
+      "PackagePath": "staticwebassets\\img\\icon\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\122.png",
+      "PackagePath": "staticwebassets\\img\\icon\\122.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\2.png",
+      "PackagePath": "staticwebassets\\img\\icon\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\3.png",
+      "PackagePath": "staticwebassets\\img\\icon\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\4.png",
+      "PackagePath": "staticwebassets\\img\\icon\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\alert.png",
+      "PackagePath": "staticwebassets\\img\\icon\\alert.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\ana.png",
+      "PackagePath": "staticwebassets\\img\\icon\\ana.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\broad.png",
+      "PackagePath": "staticwebassets\\img\\icon\\broad.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\cable.png",
+      "PackagePath": "staticwebassets\\img\\icon\\cable.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\cc.png",
+      "PackagePath": "staticwebassets\\img\\icon\\cc.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\ci.png",
+      "PackagePath": "staticwebassets\\img\\icon\\ci.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\con1.png",
+      "PackagePath": "staticwebassets\\img\\icon\\con1.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\cs.png",
+      "PackagePath": "staticwebassets\\img\\icon\\cs.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\cus.png",
+      "PackagePath": "staticwebassets\\img\\icon\\cus.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\custom.png",
+      "PackagePath": "staticwebassets\\img\\icon\\custom.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\dial.png",
+      "PackagePath": "staticwebassets\\img\\icon\\dial.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\ec.png",
+      "PackagePath": "staticwebassets\\img\\icon\\ec.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\eq.png",
+      "PackagePath": "staticwebassets\\img\\icon\\eq.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\flex.png",
+      "PackagePath": "staticwebassets\\img\\icon\\flex.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\fo.png",
+      "PackagePath": "staticwebassets\\img\\icon\\fo.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\ic.png",
+      "PackagePath": "staticwebassets\\img\\icon\\ic.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\internet.png",
+      "PackagePath": "staticwebassets\\img\\icon\\internet.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\isdn.png",
+      "PackagePath": "staticwebassets\\img\\icon\\isdn.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\landline.png",
+      "PackagePath": "staticwebassets\\img\\icon\\landline.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\landline.webp",
+      "PackagePath": "staticwebassets\\img\\icon\\landline.webp"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\md.webp",
+      "PackagePath": "staticwebassets\\img\\icon\\md.webp"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\message.png",
+      "PackagePath": "staticwebassets\\img\\icon\\message.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\mobile.png",
+      "PackagePath": "staticwebassets\\img\\icon\\mobile.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\modem.png",
+      "PackagePath": "staticwebassets\\img\\icon\\modem.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\of.png",
+      "PackagePath": "staticwebassets\\img\\icon\\of.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\pay.png",
+      "PackagePath": "staticwebassets\\img\\icon\\pay.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\pp.png",
+      "PackagePath": "staticwebassets\\img\\icon\\pp.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\roam.png",
+      "PackagePath": "staticwebassets\\img\\icon\\roam.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\secure.png",
+      "PackagePath": "staticwebassets\\img\\icon\\secure.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\speed.png",
+      "PackagePath": "staticwebassets\\img\\icon\\speed.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\ss.png",
+      "PackagePath": "staticwebassets\\img\\icon\\ss.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\ud.png",
+      "PackagePath": "staticwebassets\\img\\icon\\ud.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\vc.png",
+      "PackagePath": "staticwebassets\\img\\icon\\vc.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\vdc.webp",
+      "PackagePath": "staticwebassets\\img\\icon\\vdc.webp"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\ven.png",
+      "PackagePath": "staticwebassets\\img\\icon\\ven.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\wi.png",
+      "PackagePath": "staticwebassets\\img\\icon\\wi.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\icon\\wireless.png",
+      "PackagePath": "staticwebassets\\img\\icon\\wireless.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\logo3.png",
+      "PackagePath": "staticwebassets\\img\\logo3.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\modem\\ARRIS SURFboard SB6183 Cable Modem.png",
+      "PackagePath": "staticwebassets\\img\\modem\\ARRIS SURFboard SB6183 Cable Modem.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\modem\\Modems.txt",
+      "PackagePath": "staticwebassets\\img\\modem\\Modems.txt"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\modem\\Motorola MB7621 Cable Modem.jpg",
+      "PackagePath": "staticwebassets\\img\\modem\\Motorola MB7621 Cable Modem.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\modem\\NETGEAR Nighthawk CM1200 DOCSIS 3.1 Cable Modem.jfif",
+      "PackagePath": "staticwebassets\\img\\modem\\NETGEAR Nighthawk CM1200 DOCSIS 3.1 Cable Modem.jfif"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\modem\\Tplink.jpg",
+      "PackagePath": "staticwebassets\\img\\modem\\Tplink.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\modem\\zoom_telephonics.jpg",
+      "PackagePath": "staticwebassets\\img\\modem\\zoom_telephonics.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\mudassir.jpg",
+      "PackagePath": "staticwebassets\\img\\mudassir.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\project-1.jpg",
+      "PackagePath": "staticwebassets\\img\\project-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\project-2.jpg",
+      "PackagePath": "staticwebassets\\img\\project-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\project-3.jpg",
+      "PackagePath": "staticwebassets\\img\\project-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\project-4.jpg",
+      "PackagePath": "staticwebassets\\img\\project-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\routers\\ASUS RT-AX1800 WIFI ROUTER.png",
+      "PackagePath": "staticwebassets\\img\\routers\\ASUS RT-AX1800 WIFI ROUTER.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\routers\\ASUS RT-N14U WIFI ROUTER.jpg",
+      "PackagePath": "staticwebassets\\img\\routers\\ASUS RT-N14U WIFI ROUTER.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\routers\\LINKSYS CLASSIC MICRO ROUTER.jpg",
+      "PackagePath": "staticwebassets\\img\\routers\\LINKSYS CLASSIC MICRO ROUTER.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\routers\\LINKSYS WRT160N WIFI ROUTER.jpg",
+      "PackagePath": "staticwebassets\\img\\routers\\LINKSYS WRT160N WIFI ROUTER.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\routers\\Routers.txt",
+      "PackagePath": "staticwebassets\\img\\routers\\Routers.txt"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\routers\\TENDA AC6 WIFI ROUTER.jpg",
+      "PackagePath": "staticwebassets\\img\\routers\\TENDA AC6 WIFI ROUTER.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\lib\\lightbox\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\css\\lightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\lib\\lightbox\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\js\\lightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\lib\\lightbox\\links.php",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Downloads\\Nexus\\NEXUS\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.NEXUS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.NEXUS.props",
+      "PackagePath": "build\\NEXUS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.NEXUS.props",
+      "PackagePath": "buildMultiTargeting\\NEXUS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.NEXUS.props",
+      "PackagePath": "buildTransitive\\NEXUS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

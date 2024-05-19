@@ -1,0 +1,73 @@
+
+
+Modems 1:
+ARRIS SURFboard SB6183 Cable Modem
+
+Description: 
+The ARRIS SURFboard SB6183 is a high-speed cable modem designed for residential and small business use. It offers compatibility with most major cable internet providers.
+
+Specifications:
+DOCSIS 3.0 technology
+16 downstream and 4 upstream channels
+Download speeds up to 686 Mbps
+IPv4 and IPv6 support
+Gigabit Ethernet port
+
+
+Modem 2:
+NETGEAR Nighthawk CM1200 DOCSIS 3.1 Cable Modem
+
+Description: 
+The NETGEAR Nighthawk CM1200 is a high-performance cable modem that supports the latest DOCSIS 3.1 standard, providing ultra-fast internet speeds and future-proofing for higher bandwidth demands.
+
+Specifications:
+DOCSIS 3.1 technology
+32 downstream and 8 upstream channels
+Download speeds up to 2 Gbps
+2 Gigabit Ethernet ports
+Compatible with major cable internet providers
+
+
+Modem 3:
+TP-Link Archer CR700 Cable Modem Router
+
+Description: 
+The TP-Link Archer CR700 is a 2-in-1 device that combines a cable modem with a wireless router, providing both high-speed internet access and Wi-Fi connectivity in a single unit.
+
+Specifications:
+DOCSIS 3.0 technology
+16x4 channel bonding
+Download speeds up to 680 Mbps
+Dual-band Wi-Fi (802.11ac) with speeds up to 1750 Mbps
+Four Gigabit Ethernet ports
+
+
+Modem 4:
+Motorola MB7621 Cable Modem
+
+Description: 
+The Motorola MB7621 is a reliable and cost-effective cable modem that delivers high-speed internet access for residential users. It offers compatibility with most major cable internet providers.
+
+Specifications:
+DOCSIS 3.0 technology
+24x8 channel bonding
+Download speeds up to 1 Gbps
+IPv4 and IPv6 support
+One Gigabit Ethernet port
+
+
+
+
+Modem 5:
+ASUS CM-32 AC2600 Cable Modem Router
+
+Description: 
+The ASUS CM-32 AC2600 is a premium 2-in-1 device that combines a cable modem with a high-performance Wi-Fi router, delivering fast internet speeds and extensive wireless coverage.
+
+Specifications:
+DOCSIS 3.0 technology
+32x8 channel bonding
+Download speeds up to 1.3 Gbps
+Dual-band Wi-Fi (802.11ac) with speeds up to 2600 Mbps
+Four Gigabit Ethernet ports
+Two USB ports for network storage and printer sharing

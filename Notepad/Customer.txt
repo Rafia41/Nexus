@@ -1,0 +1,98 @@
+@model NEXUS.Models.Customer
+@{
+    Layout = "_LayoutAdmin";
+}
+
+
+<div class="container-fluid pt-4 px-4">
+    <div class="row g-4">
+        <div class="col-sm-12 col-xl-12">
+            <div class="bg-light rounded h-100 p-4">
+                <h6 class="mb-4">ADD-CUSTOMER</h6>
+                <form asp-controller="Admin" asp-action="AddCustomer">
+                    @Html.AntiForgeryToken()
+                    <div class="mb-3">
+                
+                        <label for="exampleInputEmail1" class="form-label">Customer Name</label>
+                        <input type="text" class="form-control" asp-for="CustomName">
+
+                        <label for="exampleInputEmail1" class="form-label">Customer Email</label>
+                        <input type="text" class="form-control" asp-for="CustomEmail">
+
+                        <label for="exampleInputEmail1" class="form-label">Customer Address</label>
+                        <input type="text" class="form-control" asp-for="CustomAddress">
+
+                        <label for="exampleInputEmail1" class="form-label">Customer Number</label>
+                        <input type="text" class="form-control" asp-for="CustomNum">
+
+                        <label for="exampleInputEmail1" class="form-label">Customer Account Id</label>
+                        <input type="text" class="form-control" asp-for="CustomAccount_ID">
+
+                        <label for="exampleInputEmail1" class="form-label">Connection_Type</label>
+                        <input type="text" class="form-control" asp-for="Connection_Type">
+                    </div>
+                    <button type="submit" class="btn btn-success">SUBMIT</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+@model NEXUS.Models.Customer
+@{
+    Layout = "_LayoutAdmin";
+}
+
+
+!-- Table Start -->
+<div class="container-fluid pt-4 px-4">
+    <div class="row g-4">
+        <div class="col-sm-12 col-xl-12">
+            <div class="bg-light rounded h-100 p-4">
+                <h6 class="mb-4 text-center">FETCH CUSTOMER</h6>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Customer Id</th>
+                            <th>Customer Name</th>
+                            <th>Customer Address</th>
+                            <th>Customer Number </th>
+                            <th>Customer Email </th>
+                            <th>Customer Account Id</th>
+                            <th>Connection Type</th>
+                            <th>Payment Status </th>
+
+                            <th>UPDATE</th>
+                            <th>DELETE</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.CustomId</td>
+                                <td>@item.CustomName</td>
+                                <td>@item.CustomMail</td>
+                                <td>@item.CustomAddress</td>
+                                <td>@item.CustomNum</td>
+                                <td>@item.CustomAccount_ID</td>
+                                <td>@item.Connection_Type</td>
+                                <td>@item.Payment_Status</td>
+
+                                <td>
+                                    <a asp-route-id="@item.CustomId" asp-controller="Admin" asp-action="editCustomer" class="btn btn-success">UPDATE</a>
+                                </td>
+                                <td>
+                                    <a asp-route-id="@item.CustomId" asp-controller="Admin" asp-action="deleteCustomer" class="btn btn-danger">DELETE</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,111 @@
+﻿@model IEnumerable<NEXUS.Models.PlanDb2>
+
+@{
+    Layout = "_LayoutAdmin";
+}
+
+
+<!-- Table Start -->
+<div class="container-fluid pt-4 px-4">
+    <div class="row g-4">
+        <div class="col-md-12 col-lg-12">
+            <div class="bg-light rounded h-100 p-4">
+                <h6 class="mb-4 text-center">FETCH PLANS</h6>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Plan Name 1</th>
+                            <th>Plan Name 2</th>
+                            <th>Plan Name 3</th>
+
+                            <th>Plan Basis 1</th>
+                            <th>Plan Basis 2</th>
+                            <th>Plan Basis 3</th>
+                            <th>Plan Basis 4</th>
+
+                            <th>Plan Hours 1</th>
+                            <th>Plan Hours 2</th>
+                            <th>Plan Hours 3</th>
+                            <th>Plan Hours 4</th>
+                            <th>Plan Hours 5</th>
+
+                            <th>Plan Price 1</th>
+                            <th>Plan Price 2</th>
+                            <th>Plan Price 3</th>
+                            <th>Plan Price 4</th>
+                            <th>Plan Price 5</th>
+                            <th>Plan Price 6</th>
+                            <th>Plan Price 7</th>
+
+                            <th>Plan Speed 1</th>
+                            <th>Plan Speed 2</th>
+                            <th>Plan Speed 3</th>
+
+                            <th>Plan Validity 1</th>
+                            <th>Plan Validity 2</th>
+                            <th>Plan Validity 3</th>
+                            <th>Plan Validity 4</th>
+                            <th>Plan Validity 5</th>
+                            <th>Plan Validity 6</th>
+                            <th>Plan Validity 7</th>
+                            <th>Plan Validity 8</th>
+                            <th>DELETE</th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.PlanName1</td>
+                                <td>@item.PlanName2</td>
+                                <td>@item.PlanName3</td>
+
+
+                                <td>@item.PlanBasis1</td>
+                                <td>@item.PlanBasis2</td>
+                                <td>@item.PlanBasis3</td>
+                                <td>@item.PlanBasis4</td>
+
+
+                                <td>@item.PlanHours1</td>
+                                <td>@item.PlanHours2</td>
+                                <td>@item.PlanHours3</td>
+                                <td>@item.PlanHours4</td>
+                                <td>@item.PlanHours5</td>
+
+
+                                <td>@item.PlanPrice1</td>
+                                <td>@item.PlanPrice2</td>
+                                <td>@item.PlanPrice3</td>
+                                <td>@item.PlanPrice4</td>
+                                <td>@item.PlanPrice5</td>
+                                <td>@item.PlanPrice6</td>
+                                <td>@item.PlanPrice7</td>
+
+
+                                <td>@item.PlanSpeed1</td>
+                                <td>@item.PlanSpeed2</td>
+                                <td>@item.PlanSpeed3</td>
+
+
+                                <td>@item.PlanValidity1</td>
+                                <td>@item.PlanValidity2</td>
+                                <td>@item.PlanValidity3</td>
+                                <td>@item.PlanValidity4</td>
+                                <td>@item.PlanValidity5</td>
+                                <td>@item.PlanValidity6</td>
+                                <td>@item.PlanValidity7</td>
+                                <td>@item.PlanValidity8</td>
+
+                                <td>
+                                    <a asp-route-id="@item.Plan2Id" asp-controller="Admin" asp-action="deletePlan2" class="btn btn-danger">DELETE</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

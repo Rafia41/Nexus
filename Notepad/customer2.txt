@@ -1,0 +1,144 @@
+<div class="container" style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">
+    <h2 class="text-dark text-center animated slideInDown" style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">PLACE YOUR CONNECTION!</h2>
+    <br />
+    <form action="submit_order.php" method="post">
+        <div class="form-group">
+            <label class="text-dark" for="product_name">Your Name:</label>
+            <input type="text" id="custom_name" name="custom_name" required>
+        </div>
+
+        <div class="form-group">
+            <label class="text-dark" for="product_name">Your Email:</label>
+            <input type="text" id="custom_email" name="custom_email" required>
+        </div>
+
+        <div class="form-group">
+            <label class="text-dark" for="product_name">Your Contact Number:</label>
+            <input type="text" id="custom_num" name="custom_num" required>
+        </div>
+
+        <br />
+
+        <h2 class="text-center animated slideInDown" style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">ORDER DETAILS</h2>
+
+        <div class="form-group">
+            <label class="text-dark" for="product_name">Type of Connection:</label>
+            <select id="selectionBox">
+                <label for="connection_name"></label>
+                <option value="option1"> Internet Connection</option>
+                <option value="option2">Fiber Optic Internet</option>
+                <option value="option3">Fixed Wireless Internet</option>
+                <option value="option4"> DSL (Digital Subscriber Line)</option>
+                <option value="option5"> Cable Internet</option>
+            </select>
+            <br />
+           @*  <label for="other">Other (please specify):</label>
+            <input type="text" id="other_specify" name="other_specify"><br><br> *@
+        </div>
+        <br />
+
+        <div class="form-group">
+            <label class="text-dark" for="product_name">Connection Speed/Package:</label>
+            <select id="selectionBox">
+                <label for="package_name"></label>
+                <option value="option1"> Basic</option>
+                <option value="option2">Standard</option>
+                <option value="option3">Premium</option>   
+            </select>
+        </div>
+        <br />
+
+        <div class="form-group">
+            <label class="text-dark" for="product_name">Additional Services (if applicable):</label>
+            <select id="selectionBox">
+                <label for="additional_services"></label>
+                <option value="option1">Installation</option>
+                <option value="option2">Equipment Purchase</option>
+                <option value="option3">Tech Support</option>
+                <option value="option4">Bundle Packages</option>
+            </select>
+        </div>
+        <br />
+
+        <div class="form-group">
+            <label class="text-dark fs-3" for="product_name">Billing Information:</label>
+            <div class="form-group">
+                <label for="card_name">Name on Card:</label>
+                <input type="text" id="card_name" name="card_name" required>
+            </div>
+                 <div class="form-group">
+                <label for="card_number">Card Number:</label>
+                <input type="number" id="card_number" name="card_number" required>
+            </div>
+            <br />
+            <div class="form-group">
+                <label for="exp_date">Expiration Date:</label>
+                <input type="date" id="exp_date" name="exp_date" required>
+            </div>
+            <br />
+            <div class="form-group">
+                <label for="cvv_cvc">CVV/CVC:</label>
+                <input type="number" id="cvv_cvc" name="cvv_cvc" required>
+            </div>
+        </div>
+        <br />
+
+        <div class="form-group">
+            <label class="text-dark fs-3" for="product_name">Installation Address:</label>
+            <div class="form-group">
+                <label for="Street">Street Address:</label>
+                <input type="text" id="Street" name="Street" required>
+            </div>
+            <div class="form-group">
+                <label for="City">City:</label>
+                <input type="text" id="City" name="City" required>
+            </div>
+            <br />
+            <div class="form-group">
+                <label for="state">State/Province:</label>
+                <input type="text" id="state" name="state" required>
+            </div>
+            <br />
+            <div class="form-group">
+                <label for="zip_code">Postal/ZIP Code:</label>
+                <input type="number" id="zip_code" name="zip_code" required>
+            </div>
+            <br />
+            <div class="form-group">
+                <label for="country">Country:</label>
+                <input type="text" id="country" name="country" required>
+            </div>
+        </div>
+        <br />
+
+        <div class="form-group">
+            <a asp-controller="Home" asp-action="SubmitOrder" class="btn btn-success px-4 py-2 text-white fs-6" type="submit">Place Order</a>
+        </div>
+    </form>
+</div>
+
+<script>
+    // JavaScript code to handle selection change
+    document.getElementById("selectionBox").addEventListener("change", function () {
+        var selectedOption = this.value;
+        console.log("Selected Option:", selectedOption);
+        // You can perform any actions based on the selected option here
+    });
+</script>
+
+
+
+
+
+<div class="btn-square mx-auto mb-4" style="width: 60px; height: 60px; margin-left: 130px;">
+    <img class="img-fluid" src="~/img/icon/vc.png" alt="Icon">
+</div>
+
+<h5 class="mb-3 text-center">@item.ConnName</h5>
+<p class="text-center">
+    Enjoy crystal-clear voice calls with our high-quality network coverage. Whether you're making
+    local calls or connecting with someone on the other side of the globe, we ensure that every conversation is smooth and uninterrupted.
+</p>
+@*  <a asp-controller="Home" asp-action="">
+<button class="moreless-button btn btn-primary w-75 py-1 px-2" style="margin-left:50px; background-color:#0F1025; border:none" type="submit">Read More</button>
+</a> *@

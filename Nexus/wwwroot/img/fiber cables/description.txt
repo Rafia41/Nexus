@@ -1,0 +1,63 @@
+Cable 1: 
+Single-Mode Fiber (SMF):
+
+Description: Single-mode fiber is designed for long-distance, high-bandwidth applications where signal integrity is critical. It allows a single mode of light to propagate through the fiber core.
+
+Specifications:
+Core Diameter: Typically 9 micrometers
+Cladding Diameter: Around 125 micrometers
+Mode of Propagation: Single mode
+Bandwidth: Up to 100 Gbps and beyond
+Distance: Up to tens of kilometers
+
+Cable 2:
+Multimode Fiber (MMF):
+
+Description: Multimode fiber is suitable for shorter-distance applications, such as local area networks (LANs) and data centers. It supports multiple modes of light propagation through the fiber core.
+
+Specifications:
+Core Diameter: Typically 50 or 62.5 micrometers
+Cladding Diameter: Around 125 micrometers
+Mode of Propagation: Multiple modes
+Bandwidth: Up to 100 Gbps over short distances
+Distance: Up to several hundred meters to a few kilometers
+
+Cable 3:
+Plastic Optical Fiber (POF):
+
+Description: POF is made from plastic materials and is often used in applications requiring flexibility and cost-effectiveness, such as home networking and automotive communications.
+
+Specifications:
+Core Diameter: Typically around 1 millimeter
+Cladding Diameter: Varies
+Mode of Propagation: Single mode or multimode
+Bandwidth: Up to 1 Gbps or more
+Distance: Up to several hundred meters
+
+Cable 4:
+
+Active Optical Cable (AOC):
+
+Description: AOC integrates optoelectronic components directly into the cable assembly, providing high-speed data transmission over short to medium distances.
+
+Specifications:
+Data Rate: Typically up to 100 Gbps or higher
+Connector Types: Various, including SFP, QSFP, and CXP
+Length: Typically up to tens of meters
+Power Consumption: Varies depending on the cable length and data rate
+Applications: Data centers, high-performance computing, storage area networks
+
+Cable 5:
+
+Ribbon Fiber:
+
+Description: Ribbon fiber cables consist of multiple fiber strands arranged in a flat ribbon-like structure, offering high fiber density and easier mass fusion splicing.
+
+Specifications:
+Fiber Count: Typically 8, 12, 24, or 48 fibers per ribbon
+Ribbon Width: Varies depending on the fiber count
+Jacket Type: Usually tight-buffered for protection
+Applications: Backbone networks, fiber-to-the-home (FTTH), high-density data centers
+Advantages: High fiber density, easy splicing, space-saving design
+
+

@@ -1,0 +1,167 @@
+use Nexus_Db;
+
+Create table Customer(
+CustomerId INT PRIMARY KEY IDENTITY(1,1),
+CustomerName VARCHAR(100) NOT NULL,
+CustomerEmail VARCHAR(100) NOT NULL,
+CustomerContactNo BIGINT NOT NULL,
+CustomerAddress VARCHAR(200) NOT NULL,
+CustomerStreet VARCHAR(200) NOT NULL,
+CustomerCity VARCHAR(100) NOT NULL,
+CustomerProvince VARCHAR(200) NOT NULL,
+CustomerPostalCode VARCHAR(200) NOT NULL,
+CustomerBankName BIGINT NOT NULL,
+CustomerAccNo BIGINT NOT NULL,
+ConnId INT,
+AddId INT,
+PaymentStatus VARCHAR(50) NOT NULL,
+SecurityId INT,
+
+FOREIGN KEY (ConnId) REFERENCES TypeOfConnection(ConnId),
+FOREIGN KEY (AddId) REFERENCES AdditionalService(AddId),
+FOREIGN KEY (SecurityId) REFERENCES Security_Deposit(SecurityId)
+);
+
+
+
+
+
+
+[HttpGet]
+public IActionResult SignUp()
+{
+	return View();
+}
+
+[HttpPost]
+public IActionResult SignUp(UserRecord user)
+{
+	if (ModelState.IsValid)
+	{
+		user.UserRoleId = 2;
+		db.Add(user);
+		db.SaveChanges();
+		TempData["Message"] = "User Registered Successfully..";
+		return RedirectToAction(nameof(Login));
+	}
+	return View();
+}
+
+
+
+@model IEnumerable<NEXUS.Models.CustomerDb>
+
+@{
+    Layout = "_LayoutAdmin";
+}
+
+
+<!-- Table Start -->
+<div class="container-fluid pt-4 px-4">
+    <div class="row g-4">
+        <div class="col-sm-6 col-xl-12">
+            <div class="bg-light rounded h-100 p-4">
+                <h6 class="mb-4 text-center">FETCH PACKAGES</h6>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Customer Name</th>
+                            <th>Customer Email</th>
+                            <th>Customer Address</th>
+                            <th>Customer Number</th>
+                            <th>Customer Account Number</th>
+                            <th>Connection Type</th>
+                            <th>Payment Status</th>
+                            <th>UPDATE</th>
+                            <th>DELETE</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.CustomName</td>
+                                <td>@item.CustomAddress</td>
+                                <td>@item.CustomNum</td>
+                                <td>@item.CustomMail</td>
+                                <td>@item.CustomAccountId</td>
+                                <td>@item.ConnectionType</td>
+                                <td>@item.PaymentStatus</td>
+                                <td>
+                                    <a asp-route-id="@item.CustomId" asp-controller="Admin" asp-action="editCustomer" class="btn btn-success">UPDATE</a>
+                                </td>
+                                <td>
+                                    <a asp-route-id="@item.CustomId" asp-controller="Admin" asp-action="deleteCustomer" class="btn btn-danger">DELETE</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+@model NEXUS.Models.CustomerDb
+
+<div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s">
+    <div class="container text-center py-5">
+        <h1 class="display-2 text-white mb-4 animated slideInDown" style="font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">ORDER NOW</h1>
+        <nav aria-label="breadcrumb animated slideInDown">
+            <ol class="breadcrumb justify-content-center mb-0">
+                <li class="breadcrumb-item"><a href="#">Home</a></li>
+                <li class="breadcrumb-item"><a href="#">Pages</a></li>
+                <li class="breadcrumb-item text-primary" aria-current="page">Services</li>
+            </ol>
+        </nav>
+    </div>
+</div>
+
+<div class="container-fluid pt-4 px-4">
+    <div class="row g-4">
+        <div class="col-sm-12 col-xl-12">
+            <div class="bg-light rounded h-100 p-4">
+                <h6 class="mb-4">ADD-CUSTOMER</h6>
+                <form asp-controller="Admin" asp-action="AddCustomer">
+                    @Html.AntiForgeryToken()
+                    <div class="mb-3">
+
+                        <label for="exampleInputEmail1" class="form-label">Your Name</label>
+                        <input type="text" class="form-control" asp-for="CustomerName">
+
+                        <label for="exampleInputEmail1" class="form-label">Your Email</label>
+                        <input type="text" class="form-control" asp-for="CustomerEmail">
+
+                        <label for="exampleInputEmail1" class="form-label">Contact Number</label>
+                        <input type="text" class="form-control" asp-for="CustomerEmail">
+
+                        <label for="exampleInputEmail1" class="form-label">Residentional Address</label>
+                        <input type="text" class="form-control" asp-for="CustomerAddress">
+
+                        <label for="exampleInputEmail1" class="form-label">Your Bank-Name</label>
+                        <input type="text" class="form-control" asp-for="CustomerBankName">
+
+                        <label for="exampleInputEmail1" class="form-label">Your BankAccount Number </label>
+                        <input type="text" class="form-control" asp-for="CustomerAccNo">
+
+                        <select class="form-select mb-2" asp-for="ConnId" asp-items="ViewBag.Connection" aria-label="Default select example">
+                            <option selected>Select Services</option>
+                        </select>
+
+                        <select class="form-select mb-2" asp-for="ConnId" asp-items="ViewBag.Additional" aria-label="Default select example">
+                            <option selected>Additional Services</option>
+                        </select>
+
+
+                        <label for="exampleInputEmail1" class="form-label">Payment Status</label>
+                        <input type="text" class="form-control" asp-for="PaymentStatus">
+                    </div>
+                    <button type="submit" class="btn btn-success">SUBMIT</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
